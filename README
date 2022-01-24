@@ -1,9 +1,17 @@
 AQI
 ===
-
-
+Effect COVID-19 on Air Quality Index.
 
 
 Links
 - https://github.com/mimansha98/AQI-Prediction-before-and-after-Lockdown-of-COVID-19-in-India
-
+- https://github.com/caciitg/Air-Quality-Index-Prediction
+- https://aqicn.org/data-platform/covid19/verify/9fbd8433-2ab9-403d-9392-43851e866615 (data set)
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7525347/#s0010
+- https://www.kaggle.com/rohanrao/air-quality-data-in-india?select=city_hour.csv (data set)
+- https://aqicn.org/data-platform/covid19/
+- https://data.gov.in/resources/location-wise-daily-ambient-air-quality-delhi-year-2011
+- https://github.com/SN786/India-Air-Quality-Data-Analysis
+- https://github.com/mimansha98/AQI-Prediction-before-and-after-Lockdown-of-COVID-19-in-India (SARIMA and LSTM model)
+- https://github.com/hellomasaya/air-pollution-in-delhi (SARIMAX model)
+- https://github.com/hellomasaya/AQI-and-effect-of-lockdown
