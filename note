@@ -1,0 +1,45 @@
+#ritvikmath
+
+What is Time Series?
+
+Two types of Model
+1. Regression model.(non-time series way)
+2. Non - Regression model. (Auto-regression)
+
+Suppose you want to predict the no. of ice creams going to sell on a particular day.
+
+1. non-time series way.
+input feature: temp
+output: cones
+
+temp == cones (hot temp == more sales of cones)
+
+ex.
+let ct be no. of ice-cream that were sold on a given day.
+
+if we plot graph ct vs temp. & based on the graph.
+we predict no. of sale of ice-cream cones given a particular temperature for tmw.
+this will have errors.
+
+this way of predicting value from data is know Interpolation.
+Interpolation: predicting new data from history where data is in the range of history and not outside the range.
+Interpolation will have good accuracy of the model.
+
+
+
+2. Time series way.
+predicting no. of ice-cream sale on any given day as a fuction of how many cones  sold yesterday.
+input feature: c(t-1)
+output: cones
+
+prediting data based on lagged version of the cones sold (model does NOT depend on temperature).
+
+ALWAYS Extrapolation: predicting new data outside the given data.
+
+problem:
+prediction intervals growes bigger and bigger meaning
+let k : predicting value for tmw from prev uncertain data.
+day after tmw: k  + k = 2k (uncertainity increases).
+k, 2k, ....BAD  
+
+GOOD for short come prediction.
