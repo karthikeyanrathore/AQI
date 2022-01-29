@@ -20,6 +20,14 @@ NAQI (National AQI)
 how india calculates AQI?
 https://pib.gov.in/newsite/PrintRelease.aspx?relid=110654
 
+Architecture
+1. getting data
+2. pre-processing
+3. visualize
+4. models train & fit
+5. evaluation metrics
+6. model selection
+
 
 Links
 - https://github.com/mimansha98/AQI-Prediction-before-and-after-Lockdown-of-COVID-19-in-India
