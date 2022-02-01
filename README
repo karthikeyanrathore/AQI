@@ -33,7 +33,8 @@ Product (startup)
 - competition:https://analyticsindiamag.com/how-this-ai-startup-is-providing-real-time-air-quality-data-to-combat-pollution/
 
 Links
-- https://github.com/mimansha98/AQI-Prediction-before-and-after-Lockdown-of-COVID-19-in-India
+- https://www.kaggle.com/sanchitkarakoti/air-quality-index-by-states (EDA)
+- https://smartairfilters.com/en/blog/difference-pm2-5-aqi-measurements/ (PM2.5 vs aqi)
 - https://github.com/caciitg/Air-Quality-Index-Prediction
 - https://aqicn.org/data-platform/covid19/verify/9fbd8433-2ab9-403d-9392-43851e866615 (data set)
 - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7525347/#s0010
